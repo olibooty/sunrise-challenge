@@ -1,0 +1,23 @@
+{
+  "name": "sunrise-challenge",
+  "version": "1.0.0",
+  "repository": "git@github.com:SeedBoot/sunrise-challenge.git",
+  "author": "Oli Booty <oliboots@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel ./src/index.html"
+  },
+  "dependencies": {
+    "moment": "^2.24.0",
+    "react": "^16.0.0",
+    "react-dom": "^16.12.0",
+    "sunrise-sunset-js": "^2.1.1"
+  },
+  "devDependencies": {
+    "@types/react": "^16.9.13",
+    "@types/react-dom": "^16.9.4",
+    "parcel": "^1.12.4",
+    "postcss-modules": "^1.4.1",
+    "typescript": "^3.7.2"
+  }
+}
