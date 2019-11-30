@@ -1,8 +1,9 @@
-.page-wrapper {
-    width: 100%;
+.pageWrapper {
+    height: 100%;
+    padding: 1rem;
 }
 
-.main {
-    max-width: 400px;
-    margin: 0 auto;
+.header {
+    color: #f8f8f2;
+    text-align: center;
 }
